@@ -31,6 +31,4 @@ A simple predictive model is also included to explore next-day trader profitabil
 ```bash
 git clone https://github.com/Pooja389/trader-behavior-analysis.git
 cd trader-behavior-analysis
-```bash
-git clone https://github.com/YOUR_USERNAME/trader-behavior-analysis.git
-cd trader-behavior-analysis
+
